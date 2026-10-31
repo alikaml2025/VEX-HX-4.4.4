@@ -1,0 +1,34 @@
+﻿# Visual Studio cache and user-specific files
+*.suo
+*.user
+*.opensdf
+*.vcxproj.user
+[Oo]bj/
+[Bb]in/
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled libraries and executables
+*.lib
+*.dll
+*.exe
+*.pdb
+
+# IDE settings
+.vs/
+.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
+
+# Build artifacts
+*.ilk
+*.ipch
+*.ncb
+*.sbr
